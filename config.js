@@ -5,7 +5,7 @@ const CONFIG = {
     but i try my best to impress you!
     Words arent enough to describe what i feel for you
     so am KET KET KET KETING on my keyboard instead to express to you`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'Click here migga',
     title: 'Aapne kaha tha apko kabhi saccha pyar hua hi nai abhi tak 🥰',
     desc: 'Lekin aap bhul gaye li wo badal gaya jab apko mai mila ',
     btnYes: 'Correct bae <33',
