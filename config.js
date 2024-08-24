@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'BRUHHHHHHHHH 🥰. Baeeeeeeeeeee 😘😘',
     messDesc: 'Respond to this only on call aight?, I will be waiting....',
     btnAccept: 'Okiiiii hun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://t.me/notzerotwooo?text=(your number here)
+    messLink: 'https://github.com/AshenOne-xd' //link mess của các bạn. VD: https://t.me/notzerotwooo?text=(your number here)
 }
