@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'ABE JNLLLLLLLL',
     question: 'I want to talk to you over call <3',
     btnReply: 'I love u <33',
-    reply: 'Mujhe apko aur janna hai aur samjhna hai taaki mai apko aur beintehaan pyar kr saku <33333333',
+    reply: 'ok bc <33333333',
     mess: 'BRUHHHHHHHHH 🥰. Baeeeeeeeeeee 😘😘',
     messDesc: 'Respond to this only on call aight?, I will be waiting....',
     btnAccept: 'Okiiiii hun <3',
