@@ -7,7 +7,7 @@ const CONFIG = {
     so am KET KET KET KETING on my keyboard instead to express to you`,
     btnIntro: 'Click here migga',
     title: 'Aapne kaha tha apko kabhi saccha pyar hua hi nai abhi tak 🥰',
-    desc: 'Lekin aap bhul gaye li wo badal gaya jab apko mai mila ',
+    desc: 'LEKIN AAP BHUL GAYE KI WO SAB BADAL GAYA JAB AAPKO MAI MILA ',
     btnYes: 'Correct bae <33',
     btnNo: 'ABE JNLLLLLLLL',
     question: 'I want to talk to you over call <3',
